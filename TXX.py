@@ -168,10 +168,20 @@ def main():
 
     # # Topic 3 Q1
     # topics = [
-    #     "Coordination and Communication. How can military assets be deployed without compromising humanitarian principles (neutrality, impartiality, independence)? What coordination mechanisms should be established between MNCC, UN ISCG, and NGOs to ensure smooth information flow?"
+    #     "Situation Assessment. How do the UXO threat and chemical leak impact humanitarian access and safety? What information gaps exist, and which agencies are best placed to fill them?"
     # ]
 
     # # Topic 3 Q2
+    # topics = [
+    #     "Military-Civil Defence Asset (MCDA) Deployment. What factors should be considered before approving a request for MCDA? What are potential reasons to support the MCDA request? What are possible reasons not to support the request?"
+    # ]
+    
+    # # Topic 3 Q3
+    # topics = [
+    #     "Coordination and Communication. How can military assets be deployed without compromising humanitarian principles (neutrality, impartiality, independence)? What coordination mechanisms should be established between MNCC, UN ISCG, and NGOs to ensure smooth information flow?"
+    # ]
+
+    # # Topic 3 Q4
     # topics = [
     #     "Planning and Decision-Making. What are the expected outcomes and deliverables of the upcoming coordination meeting? What follow-up actions or reporting mechanisms should be established post-meeting?"
     # ]
