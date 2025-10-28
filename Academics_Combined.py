@@ -62,28 +62,10 @@ def topic_box_animated(title, points, delay=0.4):
 def main():
     st.set_page_config(layout="wide")
     
-    topics_data = {
-        'Topic 1': [
-            "Deployment strategies in collapsed structures",
-            "Use of K9 units and drones for locating victims",
-            "Coordination with local emergency services",
-        ],
-        'Topic 2': [
-            "SAR operations in coastal environments",
-            "Handling maritime distress communications",
-            "Rescue coordination centers and international protocols",
-        ],
-        'Topic 3': [
-            "Decontamination challenges during floods",
-            "Hazmat considerations in earthquake responses",
-            "Integration of CBRE units in disaster zones",
-        ],
-        'Topic 4': [
-            "Field triage and mass casualty management",
-            "Mobile hospitals and emergency medical logistics",
-            "Coordination with WHO and international aid groups",
-        ],
-    }
+    topics_data = {'Topic 1': ['1', '', '',''], 
+                   'Topic 2': ['2', '', '',''], 
+                   'Topic 3': ['3', '', '',''], 
+                   'Topic 4': ['4', '5', '',''],}
 
     topics = [
         "Urban Search and Rescue (USAR)",
