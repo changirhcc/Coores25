@@ -62,7 +62,7 @@ def topic_box_animated(title, points, delay=0.4):
 def main():
     st.set_page_config(layout="wide")
     
-    {'Topic 1': ['Need for effective communication strategies',
+    topics_data = {'Topic 1': ['Need for effective communication strategies',
   'Coordination challenges between teams',
   'Importance of timely medical assistance',
   'Retrieval processes for deceased victims',
