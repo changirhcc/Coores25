@@ -120,12 +120,46 @@ def topic_box_animated(title, points, delay=0.4):
 def main():
     st.set_page_config(layout="wide")
     
-    topics_data = {
-        'Topic 1': ["","","","","","","","",],
-        'Topic 2': ["","","","","","","","",],
-        'Topic 3': ["","","","","","","","",],
-        'Topic 4': ["","","","","","","","",],
-    }
+    topics_data = {'Topic 1': ['Effective communication and coordination with local authorities',
+  'Importance of local knowledge and resources for operations',
+  'Addressing language barriers in multi-national teams',
+  'Prioritisation of human lives and essential supplies',
+  'Need for proper training and preparedness of teams',
+  'Challenges in navigating legal and political constraints',
+  'Regular updates and information sharing among teams',
+  'Utilisation of technology for coordination and mapping',
+  'Ensuring team rest and rotation for effectiveness',
+  'Establishing clear command structures and leadership'],
+ 'Topic 4': ['Coordination between military and civilian teams',
+  'Ensuring equitable access for vulnerable populations',
+  'Cultural considerations in healthcare delivery',
+  'Logistics challenges in remote healthcare access',
+  'Importance of neutrality and respect for sovereignty',
+  'Need for clear roles to avoid duplication',
+  'Open information sharing for effective response',
+  'Credentials and standards for foreign medical teams',
+  'Addressing psychosocial support and trauma care',
+  'Building trust and mutual respect among teams'],
+ 'Topic 2': ['Coordination challenges between military and civilian entities',
+  'Importance of situational awareness and real-time information sharing',
+  'Need for standardised SOPs and training across teams',
+  'Defining clear roles and responsibilities in SAR operations',
+  'Utilisation of technology for detection and communication',
+  'Impact of weather and sea conditions on operations',
+  'Collaboration and interoperability among international stakeholders',
+  'Effective management of resources and assets during SAR',
+  'Establishing a centralised Rescue Coordination Centre',
+  'Addressing language barriers in communication and coordination'],
+ 'Topic 3': ['Need for appropriate detection capabilities',
+  'Challenges in training for CBRE missions',
+  'Importance of public warning systems',
+  'Coordination difficulties among various agencies',
+  'Risks of contamination from natural disasters',
+  'Necessity for effective PPE preparation',
+  'Limited resources for manufacturing PPE',
+  'Awareness of incident locations and scopes',
+  'Need for knowledge sharing on CBRE risks',
+  'Importance of realistic training exercises']}
 
 
     topics = [
