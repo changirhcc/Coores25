@@ -62,32 +62,26 @@ def topic_box_animated(title, points, delay=0.4):
 def main():
     st.set_page_config(layout="wide")
     
-    topics_data = {
-        'Topic 1': [
-            "",
-            "",
-            "",
-            "",
-        ],
-        'Topic 2': [
-            "",
-            "",
-            "",
-            "",
-        ],
-        'Topic 3': [
-            "",
-            "",
-            "",
-            "",
-        ],
-        'Topic 4': [
-            "",
-            "",
-            "",
-            "",
-        ],
-    }
+    {'Topic 1': ['Need for effective communication strategies',
+  'Coordination challenges between teams',
+  'Importance of timely medical assistance',
+  'Retrieval processes for deceased victims',
+  ],
+ 'Topic 4': ['Assessment of medical capacity and supply needs',
+  'Importance of team awareness for prioritisation',
+  'Safety concerns in medical operations',
+  'Need for cultural considerations in local contexts',
+  ],
+ 'Topic 2': ['Coordination of air and sea rescue assets',
+  'Challenges with poor communication and visibility',
+  'Division of responsibilities among participants',
+  'Utilisation of technology for improved operations',
+  ],
+ 'Topic 3': ['Concerns over chemical leakage and fumes',
+  'Coordination challenges between manufacturing and medical facilities',
+  'Need for safety protocols in gas handling',
+  'Risks associated with radiological equipment usage',
+  ]}
 
     topics = [
         "Urban Search and Rescue (USAR)",
