@@ -139,6 +139,8 @@ def topic_box_animated(title, points, delay=0.4):
             st.markdown(f"<li style='font-size: 20px; margin-left: 15px;'><b>{clean_point}<b></li>", unsafe_allow_html=True)
             time.sleep(delay)
 
+@st.cache_data
+
 def main():
     st.set_page_config(layout="wide")
     
