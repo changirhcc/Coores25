@@ -64,13 +64,13 @@ def main():
     
     topics_data = {
         'Topic 1': [
-            "Point 1",
+            "",
             "",
             "",
             "",
         ],
         'Topic 2': [
-            "Point 2",
+            "",
             "",
             "",
             "",
