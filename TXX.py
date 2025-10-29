@@ -158,11 +158,12 @@ def main():
   'Language barriers hinder effective communication',
   'Command and control ambiguity creates confusion',
   'Need for a liaison officer for better coordination',
-  'Permissions and authorisations complicate operations',
   'Logistics support is essential for affected areas',
   'Situational awareness is critical during operations',
-  'Information sharing among actors is insufficient',
-  'Planning and synchronisation require improved processes']}
+  'Information sharing is often inconsistent',
+  'Permissions and authorisations complicate operations',
+  'Cultural differences impact collaboration efforts',
+  'Community engagement is essential for success']}
 
 
     # Topic 1 Q1
