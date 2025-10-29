@@ -131,7 +131,7 @@ def topic_box_animated(title, points, delay=0.4):
     # st.markdown(f"<h3 style='text-align: center; color: #003366;'>{title}</h3>", unsafe_allow_html=True)
     st.markdown(f"""
     <h3 style="
-        font-size: 35px;
+        font-size: 30px;
         margin-bottom: 20px;
         text-align: justify;
         text-justify: inter-word;
