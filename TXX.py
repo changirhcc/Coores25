@@ -153,27 +153,18 @@ def main():
     st.set_page_config(layout="wide")
     
     # Example topics_data dictionary you already have:
-    topics_data = {'Topic 1': ['Immediate needs for food, water, and medical care',
-  'Coordination challenges with local and national authorities',
-  'Importance of satellite and remote sensing technology',
-  'Requirement for specialised search and rescue teams',
-  'Need for effective communication and information sharing',
-  'Establishment of relief camps for affected populations',
-  'Access to transportation and logistical support',
-  'Assessment methods for determining immediate needs',
-  'Continuous situation updates and local culture awareness',
-  'Focus on emergency medical care and evacuation routes']}
+    topics_data = {'Topic 1': ["","","","","","","","",""]}
 
 
     # Topic 1 Q1
-    topics = [
-        "Immediate Needs and Assessment. What are the possible immediate needs of the Affected Country following the disaster? How can Assisting States assess the Affected State’s immediate needs without deploying a Needs Assessment Team?"
-    ]
+    # topics = [
+    #     "Immediate Needs and Assessment. What are the possible immediate needs of the Affected Country following the disaster? How can Assisting States assess the Affected State’s immediate needs without deploying a Needs Assessment Team?"
+    # ]
 
     # # Topic 1 Q2
-    # topics = [
-    #     "Terms of Reference (TORs). In your respective groups, discuss the roles and responsibilities, and possible challenges when operating in the MNCC."
-    # ]
+    topics = [
+        "Terms of Reference (TORs). In your respective groups, discuss the roles and responsibilities, and possible challenges when operating in the MNCC."
+    ]
 
     # # Topic 3 Q1
     # topics = [
