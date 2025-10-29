@@ -153,7 +153,7 @@ def main():
     st.set_page_config(layout="wide")
     
     # Example topics_data dictionary you already have:
-    topics_data = {'Topic 1': ['','','','','']}
+    topics_data = {'Topic 1': ['','','','','','','','','']}
 
 
     # Topic 1 Q1
