@@ -153,7 +153,16 @@ def main():
     st.set_page_config(layout="wide")
     
     # Example topics_data dictionary you already have:
-    topics_data = {'Topic 1': ['','','','','','','','','']}
+    topics_data = {'Topic 1': [
+  'Utilising various information sources for assessment',
+  'Importance of medical assistance and supplies',
+  'Need for clean drinking water and food',
+  'Requirement for shelters and warm clothing',
+  'Coordination with local emergency services essential',
+  'Use of technology for needs assessment',
+  'Challenges in communication with local agencies',
+  'Diverse types of equipment needed for rescue',
+  'Emphasis on specialised search and rescue teams']}
 
 
     # Topic 1 Q1
