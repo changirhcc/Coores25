@@ -153,7 +153,15 @@ def main():
     st.set_page_config(layout="wide")
     
     # Example topics_data dictionary you already have:
-    topics_data = {'Topic 1': ['', '', '', '', '', '', '']}
+    topics_data = {'Topic 1': ['Shared situational awareness among stakeholders',
+  'Clarity on roles and responsibilities essential',
+  'Common operational picture must be established',
+  'Effective communication and information-sharing procedures',
+  'Addressing logistics constraints and access challenges',
+  'Deconfliction of resource allocations necessary',
+  'Follow-up actions and reporting mechanisms required',
+  'Clear timelines and deliverables for coordination meetings']}
+
 
 
     # Topic 1 Q1
