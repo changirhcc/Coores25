@@ -154,7 +154,15 @@ def main():
     
     # Example topics_data dictionary you already have:
     topics_data = {'Topic 1': [
-  '','','','','','','','']}
+  'Need for coordination among best-placed agencies',
+  'Challenges in sharing critical information',
+  'Tensions between speed and thoroughness in response',
+  'Variability in agency capabilities and resources',
+  'Importance of local knowledge in decision-making',
+  'Differing priorities among collaborating organisations',
+  'Need for clearer communication channels',
+  'Coordination difficulties in multi-agency efforts']}
+
 
 
     # Topic 1 Q1
