@@ -153,15 +153,7 @@ def main():
     st.set_page_config(layout="wide")
     
     # Example topics_data dictionary you already have:
-    topics_data = {'Topic 1': ['Military neutrality and impartiality are complex issues',
-  'Establish bi/multilateral agreements before deployment',
-  'Host nation leads response coordination efforts',
-  'Clear communication and liaison roles are essential',
-  'Military assets should support, not lead operations',
-  'Cultural awareness training essential for all personnel',
-  'Coordination mechanisms for real-time information exchange',
-  'Distinct identity between military and civilian assets',
-  'Maintain balance between military rules and humanitarian principles']}
+    topics_data = {'Topic 1': ['', '', '', '', '', '', '']}
 
 
     # Topic 1 Q1
@@ -185,14 +177,14 @@ def main():
     # ]
     
     # # Topic 3 Q3
-    topics = [
-        "Coordination and Communication. How can military assets be deployed without compromising humanitarian principles (neutrality, impartiality, independence)? What coordination mechanisms should be established between MNCC, UN ISCG, and NGOs to ensure smooth information flow?"
-    ]
+    # topics = [
+    #     "Coordination and Communication. How can military assets be deployed without compromising humanitarian principles (neutrality, impartiality, independence)? What coordination mechanisms should be established between MNCC, UN ISCG, and NGOs to ensure smooth information flow?"
+    # ]
 
     # # Topic 3 Q4
-    # topics = [
-    #     "Planning and Decision-Making. What are the expected outcomes and deliverables of the upcoming coordination meeting? What follow-up actions or reporting mechanisms should be established post-meeting?"
-    # ]
+    topics = [
+        "Planning and Decision-Making. What are the expected outcomes and deliverables of the upcoming coordination meeting? What follow-up actions or reporting mechanisms should be established post-meeting?"
+    ]
 
     topic_box_animated(topics[0], topics_data.get("Topic 1", []))
 
