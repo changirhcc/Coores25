@@ -153,7 +153,16 @@ def main():
     st.set_page_config(layout="wide")
     
     # Example topics_data dictionary you already have:
-    topics_data = {'Topic 1': ['', '', '', '', '', '', '', '', '']}
+    topics_data = {'Topic 1': ['Military assets must remain neutral and impartial',
+  'Host nation leads response coordination efforts',
+  'Need for clear communication channels established',
+  'Balance between military support and humanitarian principles',
+  'Coordination among MNCC, UN ISCG, and NGOs essential',
+  'Military assistance should be last resort, based on need',
+  'Understanding local communication preferences is crucial',
+  'Prior training for deployment enhances operational effectiveness',
+  'Security classification of information must be appropriate',
+  'Daily meetings to prevent misinformation and ensure clarity']}
 
 
     # Topic 1 Q1
