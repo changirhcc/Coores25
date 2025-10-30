@@ -158,7 +158,7 @@ def main():
   'Host nation leads response coordination efforts',
   'Clear communication and liaison roles are essential',
   'Military assets should support, not lead operations',
-  'Prior training on local culture and practices needed',
+  'Cultural awareness training essential for all personnel',
   'Coordination mechanisms for real-time information exchange',
   'Distinct identity between military and civilian assets',
   'Maintain balance between military rules and humanitarian principles']}
