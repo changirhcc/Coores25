@@ -153,16 +153,7 @@ def main():
     st.set_page_config(layout="wide")
     
     # Example topics_data dictionary you already have:
-    topics_data = {'Topic 1': ['Justification for military support based on local capability',
-  'National caveats affecting deployment decisions',
-  'Urgency and availability of response assets',
-  'Coordination challenges between military and civilian operations',
-  'Assessment of risks and hazards in affected areas',
-  'Host nation priorities influencing support decisions',
-  'Need for formal requests and clearances',
-  'Concerns over strategic communications and visibility',
-  'Potential for compounding dangers if unsupported',
-  'Exit strategies and sustainability of deployed forces']}
+    topics_data = {'Topic 1': ['', '', '', '', '', '', '', '', '']}
 
 
     # Topic 1 Q1
@@ -181,14 +172,14 @@ def main():
     # ]
 
     # # Topic 3 Q2
-    topics = [
-        "Military-Civil Defence Asset (MCDA) Deployment. What factors should be considered before approving a request for MCDA? What are potential reasons to support the MCDA request? What are possible reasons not to support the request?"
-    ]
+    # topics = [
+    #     "Military-Civil Defence Asset (MCDA) Deployment. What factors should be considered before approving a request for MCDA? What are potential reasons to support the MCDA request? What are possible reasons not to support the request?"
+    # ]
     
     # # Topic 3 Q3
-    # topics = [
-    #     "Coordination and Communication. How can military assets be deployed without compromising humanitarian principles (neutrality, impartiality, independence)? What coordination mechanisms should be established between MNCC, UN ISCG, and NGOs to ensure smooth information flow?"
-    # ]
+    topics = [
+        "Coordination and Communication. How can military assets be deployed without compromising humanitarian principles (neutrality, impartiality, independence)? What coordination mechanisms should be established between MNCC, UN ISCG, and NGOs to ensure smooth information flow?"
+    ]
 
     # # Topic 3 Q4
     # topics = [
