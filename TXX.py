@@ -154,16 +154,7 @@ def main():
     
     # Example topics_data dictionary you already have:
     topics_data = {'Topic 1': [
-  'Coordination challenges with emergency operation centres',
-  'Language barriers hinder effective communication',
-  'Command and control ambiguity creates confusion',
-  'Need for a liaison officer for better coordination',
-  'Logistics support is essential for affected areas',
-  'Situational awareness is critical during operations',
-  'Information sharing is often inconsistent',
-  'Permissions and authorisations complicate operations',
-  'Cultural differences impact collaboration efforts',
-  'Community engagement is essential for success']}
+  '','','','','','','','']}
 
 
     # Topic 1 Q1
@@ -172,14 +163,14 @@ def main():
     # ]
 
     # # Topic 1 Q2
-    topics = [
-        "Terms of Reference (TORs). In your respective groups, discuss the roles and responsibilities, and possible challenges when operating in the MNCC."
-    ]
+    # topics = [
+    #     "Terms of Reference (TORs). In your respective groups, discuss the roles and responsibilities, and possible challenges when operating in the MNCC."
+    # ]
 
     # # Topic 3 Q1
-    # topics = [
-    #     "Situation Assessment. How do the UXO threat and chemical leak impact humanitarian access and safety? What information gaps exist, and which agencies are best placed to fill them?"
-    # ]
+    topics = [
+        "Situation Assessment. How do the UXO threat and chemical leak impact humanitarian access and safety? What information gaps exist, and which agencies are best placed to fill them?"
+    ]
 
     # # Topic 3 Q2
     # topics = [
