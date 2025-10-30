@@ -153,16 +153,16 @@ def main():
     st.set_page_config(layout="wide")
     
     # Example topics_data dictionary you already have:
-    topics_data = {'Topic 1': ['Immediate impact on life is crucial',
-  'Limited civilian EOD skillsets available',
-  'National caveats complicate support decisions',
-  'Need for formal RFA submission to MNCC',
-  'Local capability justification for MCDA deployment',
-  'Risks and hazards assessment is essential',
-  "Host Nation's priorities must guide decisions",
-  'Contingency plans are necessary for deployment',
-  'Military or civil defence capability evaluation required',
-  'Political considerations may hinder support decisions']}
+    topics_data = {'Topic 1': ['Justification for military support based on local capability',
+  'National caveats affecting deployment decisions',
+  'Urgency and availability of response assets',
+  'Coordination challenges between military and civilian operations',
+  'Assessment of risks and hazards in affected areas',
+  'Host nation priorities influencing support decisions',
+  'Need for formal requests and clearances',
+  'Concerns over strategic communications and visibility',
+  'Potential for compounding dangers if unsupported',
+  'Exit strategies and sustainability of deployed forces']}
 
 
     # Topic 1 Q1
