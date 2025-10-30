@@ -153,9 +153,16 @@ def main():
     st.set_page_config(layout="wide")
     
     # Example topics_data dictionary you already have:
-    topics_data = {'Topic 1': [
-  '', '', '', '']}
-
+    topics_data = 'Immediate impact on life as a priority',
+  'Limited civilian NGOs with EOD expertise',
+  'National caveats affecting support decisions',
+  'Consideration of area cordoning options',
+  'Need for formal RFA submission to MNCC',
+  'Assessing last resort status for MCDA requests',
+  'Duration of FMA deployment requirements',
+  'Capability of military or civil defence units',
+  'Deployment without weapons or security concerns',
+  'Coordination challenges between military and NGOs'
 
 
     # Topic 1 Q1
