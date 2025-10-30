@@ -154,14 +154,7 @@ def main():
     
     # Example topics_data dictionary you already have:
     topics_data = {'Topic 1': [
-  'Restricted movement due to UXO and chemical threats',
-  'Access denial impacts aid delivery significantly',
-  'Immediate health threats from contamination and UXOs',
-  'Psychological effects of hazardous environments on workers',
-  'Information gaps regarding UXO and chemical details',
-  'Coordination challenges among agencies for safety',
-  'Importance of identifying and assessing UXO types',
-  'Equipment contamination poses additional risks']}
+  '', '', '', '']}
 
 
 
@@ -176,14 +169,14 @@ def main():
     # ]
 
     # # Topic 3 Q1
-    topics = [
-        "Situation Assessment. How do the UXO threat and chemical leak impact humanitarian access and safety? What information gaps exist, and which agencies are best placed to fill them?"
-    ]
+    # topics = [
+    #     "Situation Assessment. How do the UXO threat and chemical leak impact humanitarian access and safety? What information gaps exist, and which agencies are best placed to fill them?"
+    # ]
 
     # # Topic 3 Q2
-    # topics = [
-    #     "Military-Civil Defence Asset (MCDA) Deployment. What factors should be considered before approving a request for MCDA? What are potential reasons to support the MCDA request? What are possible reasons not to support the request?"
-    # ]
+    topics = [
+        "Military-Civil Defence Asset (MCDA) Deployment. What factors should be considered before approving a request for MCDA? What are potential reasons to support the MCDA request? What are possible reasons not to support the request?"
+    ]
     
     # # Topic 3 Q3
     # topics = [
