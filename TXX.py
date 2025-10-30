@@ -158,10 +158,10 @@ def main():
   'Access denial impacts aid delivery significantly',
   'Immediate health threats from contamination and UXOs',
   'Psychological effects of hazardous environments on workers',
-  'Need for specialised responses to chemical leaks',
-  'Information gaps hinder effective response planning',
+  'Information gaps regarding UXO and chemical details',
   'Coordination challenges among agencies for safety',
-  'Importance of identifying and assessing UXO types']}
+  'Importance of identifying and assessing UXO types',
+  'Equipment contamination poses additional risks']}
 
 
 
