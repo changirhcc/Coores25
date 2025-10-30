@@ -154,14 +154,14 @@ def main():
     
     # Example topics_data dictionary you already have:
     topics_data = {'Topic 1': [
-  'Need for coordination among best-placed agencies',
-  'Challenges in sharing critical information',
-  'Tensions between speed and thoroughness in response',
-  'Variability in agency capabilities and resources',
-  'Importance of local knowledge in decision-making',
-  'Differing priorities among collaborating organisations',
-  'Need for clearer communication channels',
-  'Coordination difficulties in multi-agency efforts']}
+  'Restricted movement due to UXO and chemical threats',
+  'Access denial impacts aid delivery significantly',
+  'Immediate health threats from contamination and UXOs',
+  'Psychological effects of hazardous environments on workers',
+  'Need for specialised responses to chemical leaks',
+  'Information gaps hinder effective response planning',
+  'Coordination challenges among agencies for safety',
+  'Importance of identifying and assessing UXO types']}
 
 
 
