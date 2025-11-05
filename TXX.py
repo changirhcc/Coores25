@@ -153,14 +153,35 @@ def main():
     st.set_page_config(layout="wide")
     
     # Example topics_data dictionary you already have:
-    topics_data = {'Topic 1': ['Shared situational awareness among stakeholders',
-  'Clarity on roles and responsibilities essential',
-  'Common operational picture must be established',
-  'Effective communication and information-sharing procedures',
-  'Addressing logistics constraints and access challenges',
-  'Deconfliction of resource allocations necessary',
-  'Follow-up actions and reporting mechanisms required',
-  'Clear timelines and deliverables for coordination meetings']}
+    topics_data = {'Topic 1': ['Timely arrival and packing of collateral',
+  'On-time printing of Ex Passes',
+  'Successful hotel room reservations and check-in',
+  'Effective transport arrangements',
+  'Timely setup of backdrops',
+  'Issues with early and late check-in/out at hotels',
+  'Vendor challenges due to holiday periods',
+  'Need for early decision-making on collateral',
+  'Importance of early venue selection for official dinner',
+  'Consideration of hotel extensions for late flights',
+  'Buffer needed for air ticket purchases in countries with infrequent flights',
+  'Late submissions of travel documents despite set deadlines',
+  'Clarification required for visa requirements into Singapore',
+  'Risks associated with a single Point-of-Contact for RFIs',
+  'Bureaucratic co-organisers causing late decisions on key attendance',
+  'Need for timely decisions on administrative preparations',
+  'Challenges with hotel flexibility for late changes',
+  'Necessity for a budget line item for miscellaneous late requests',
+  'Importance of managing external vendors closely',
+  'Distinction between Opening and Closing Ceremony video requirements',
+  'Lack of detailed planning for TTX scenarios and questions',
+  'Need for better utilisation of OPERA for presentations',
+  'Confusion from last-minute changes post-ECOM',
+  'Late confirmation of VIPs from co-organisers',
+  'Budget issues due to weather-related venue requirements',
+  'Sufficient support from HQ Guards branches',
+  'Long waiting times for rehearsals due to setup delays',
+  'Need for earlier vendor preparation before events',
+  'Delays in vendor acquisition due to changes in approved lists']}
 
 
 
@@ -191,7 +212,7 @@ def main():
 
     # # Topic 3 Q4
     topics = [
-        "Planning and Decision-Making. What are the expected outcomes and deliverables of the upcoming coordination meeting? What follow-up actions or reporting mechanisms should be established post-meeting?"
+        "Pre-COORES"
     ]
 
     topic_box_animated(topics[0], topics_data.get("Topic 1", []))
